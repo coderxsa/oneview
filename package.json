@@ -1,0 +1,17 @@
+{
+  "name": "oneview-saver",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "author": "coderxsa",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/boom": "^10.0.0",
+    "axios": "^1.12.2",
+    "form-data": "^4.0.4",
+    "@whiskeysockets/baileys": "^7.0.0-rc.6",
+    "pino": "^8.0.0"
+  }
+}
